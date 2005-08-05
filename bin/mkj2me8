@@ -1,0 +1,4 @@
+F1=smtpclient
+F2=8
+cp $F1.jar j2me$F2.jar
+cp $F1.jad j2me$F2.jad
