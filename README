@@ -1,0 +1,15 @@
+MIDPSMTP
+
+Midpsmtp is an MIDP application that allows you to send e-mails from
+MIDP-capable device.
+
+To build from sources you need:
+ - J2ME Wireless Toolkit  from Sun
+ - Java compiler (Sun's JDK or gcj from GCC)
+ 
+Extract archive into $(your_WTK_path)/apps/ then edit Makefile and type
+'make'.
+
+Project homepage:
+http://midpsmtp.sf.net/
+
