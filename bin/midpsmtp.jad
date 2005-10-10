@@ -1,0 +1,10 @@
+MIDlet-1: midpsmtp, smtpclient.png, org.kolen.smtpclient.SMTPClient
+MIDlet-Icon: /smtpclient.png
+MIDlet-Jar-Size: 17278
+MIDlet-Jar-URL: midpsmtp.jar
+MIDlet-Name: SMTP Client
+MIDlet-Permissions: javax.microedition.io.Connector.socket
+MIDlet-Vendor: kolen
+MIDlet-Version: 0.3.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
